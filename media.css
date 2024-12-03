@@ -1,0 +1,246 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:550px){
+	.sec1{
+		height: 100vh;
+	}
+.ham{
+		display: block !important;
+	}
+	.side_bar{ width: 100%;
+	}
+	.nav_link{ display:none;}
+	.screen_link{display: block!important;}
+	
+	.p1{font-size: 95px;}
+	
+	.header_text h1 {
+    padding-left: 26px;
+    font-size: 45px;
+    color: black;
+	}
+	
+	.header_text p {
+    padding-left: 31px;
+    font-size: 15px;
+    color: black;
+}
+	.item p {
+    padding: 10px 0px 0px 4%;
+	}
+	
+	.item_s p{
+	padding: 5px 0px 0px 10px;
+	}
+	
+	.header_pilot p {
+    padding: 30px 0px 0px 15px;
+	}
+	
+	.solid {
+    position: absolute;
+    bottom: -3.5%;
+    left: 81%;
+    top: 117%;
+    z-index: 1000000;
+} 
+	.sub_line {
+    width: 94vw;
+    background-color: rgba(200, 156, 61, 1.00);
+    height: 176px;
+    position: absolute;
+    bottom: -157px;
+}
+	.aim h4 {
+    padding: 27px 0px 0px 30px;
+    color: white;
+	}
+	
+	.aim p {
+    padding: 7px 0px 0px 33px;
+    color: white;
+	}
+	
+	.solid img {
+    width: 76%;
+	}
+	
+	.header_deco p {
+    font-size: 27px;
+    padding: 1% 0px 0px 15%;
+}
+	
+	.header_deco h4 {
+    padding: 10% 0px 0px 15%;
+	}
+	
+	.sec4{
+		height: 190vh;
+	}
+	
+	.button_holder {
+    margin: 40px 0px 0px 96px;
+}
+	.speed p{
+		font-size: 16px;
+	}
+	
+	.designs{
+		padding: 25px 19px!important;
+	}
+	
+	.photo img{
+		width: 115%;
+        margin-left: -16%;
+	}
+	
+	.chill h5{
+		margin-left: -14%;
+		padding: 0px!important;
+	}
+	
+	.chill p{
+		margin-left: -13%;
+		padding: 0px!important;
+	}
+	
+	.camera img{
+		width: 115%;
+    margin-left: -16%;
+	}
+	
+	.solid2 img{
+		display: none;
+		
+	}
+	
+	.roll img {
+    width: 49%;
+}
+	.move{
+		left: 59% !important;
+	}
+}
+
+@media screen and (max-width:850px) and (min-width:550px){
+	.sec1{
+		height: 100vh;
+	}
+.ham{
+		display: block !important;
+	}
+	.side_bar{ width: 100%;
+	}
+	.nav_link{ display:none;}
+	.screen_link{display: block!important;}
+	
+	.p1{font-size: 191px;}
+	
+	.header_text h1 {
+    padding-left: 26px;
+    font-size: 45px;
+    color: black;
+	}
+	
+	.header_text p {
+    padding-left: 31px;
+    font-size: 15px;
+    color: black;
+}
+	.item p {
+    padding: 10px 0px 0px 4%;
+	}
+	
+	.item_s p{
+	padding: 5px 0px 0px 10px;
+	}
+	
+	.header_pilot p {
+    padding: 30px 0px 0px 15px;
+	}
+	
+	.solid {
+    position: absolute;
+    bottom: -3.5%;
+    left: 81%;
+    top: 117%;
+    z-index: 1000000;
+} 
+	.sub_line {
+    width: 94vw;
+    background-color: rgba(200, 156, 61, 1.00);
+    height: 176px;
+    position: absolute;
+    bottom: -157px;
+}
+	.aim h4 {
+    padding: 27px 0px 0px 30px;
+    color: white;
+	}
+	
+	.aim p {
+    padding: 7px 0px 0px 33px;
+    color: white;
+	}
+	
+	.solid img {
+    width: 76%;
+	}
+	
+	.header_deco p {
+    font-size: 27px;
+    padding: 1% 0px 0px 15%;
+}
+	
+	.header_deco h4 {
+    padding: 10% 0px 0px 15%;
+	}
+	
+	.sec4{
+		height: 128vh;
+	}
+	
+	.button_holder {
+    margin: 40px 0px 0px 96px;
+}
+	.speed p{
+		font-size: 16px;
+	}
+	
+	.designs{
+		padding: 25px 19px!important;
+	}
+	
+	.photo img{
+		width: 100%;
+        margin-left: -4%;
+	}
+	
+	.chill h5{
+		margin-left: -1%;
+		padding: 0px!important;
+	}
+	
+	.chill p{
+		margin-left: -1%;
+		padding: 0px!important;
+	}
+	
+	.camera img{
+		width: 100%;
+    margin-left: -4%;
+	}
+	
+	.solid2 img{
+		display: none;
+		
+	}
+	
+	.roll img {
+    width: 49%;
+}
+	.move{
+		left: 59% !important;
+	}
+}
+
