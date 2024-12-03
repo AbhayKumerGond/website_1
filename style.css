@@ -1,0 +1,153 @@
+*{padding: 0; margin: 0; box-sizing: border-box;}
+.sec1{ background-image: url(https://www.decorpot.com/images/blogimage1361284108interior-designs-for-master-bedroom.jpg); width: 100%; height: 150vh; background-size: cover; position: relative;}
+.nav_link{display: inline; padding-left: 20px; }
+.nav_menu{text-align: right;}
+.nav_link a{ color: white;  text-decoration: none;}
+.part2{ width: 70vw; height: 20vh; background-color:rgba(200,156,61,1.00); position: absolute; bottom: 0px; right: 0px;}
+.header_text{padding-top:170px}
+.header_text h1{padding-left: 320px; font-size:45px;color:white;}
+.header_text p{padding-left: 320px;font-size:15px;color:white;}
+.header_pilot p{padding: 50px 0px 0px 150px;color:white;}
+.header_pilot{padding:0px 0px 0px 0px !important;}
+
+.sec2{background-color:rgba(3,17,41,1.00);width:100%;}
+.header_alpha h2{color:white;padding-top:50px;font-size:40px;}
+.item p{padding:30px 0px 0px 35%;color:white;font-size:12px;text-align: center;}
+.item_s p{padding:30px 0px 0px 50px;color:white;font-size:16px;text-align:center;}
+.image_holder img{width: 100%;padding-top:40px;}
+.image_hooker img{width:100%;}
+.header_deco h3{color:white;padding:10px 0px 0px 15%;}
+.header_deco p{color:white;padding:0px 0px 0px 20px;}
+.header_alpha h2{padding-bottom: 25px;}
+.button_holder{margin: 80px 0px 0px 130px;}
+.button1{ color: white; text-decoration: none; border: 1px solid rgba(200,156,61,1.00) ; padding: 20px 20px; text-align: center;}
+.button1:hover{background-color:rgba(200,156,61,1.00);}
+
+
+.sec4{background-color: rgba(3,17,41,1.00);width:100%;}
+.fragile img{width:100%;padding-top:272px;}
+.header_deco h4{padding:60% 0px 0px 15%;font-size:39px;color:white;}
+.header_deco p{font-size:27px;padding:5% 0px 0px 15%;}
+.button_holder{margin: 80px 0px 0px 130px;}
+.button1{ color: white; text-decoration: none; border: 1px solid rgba(200,156,61,1.00) ; padding: 20px 20px; text-align: center;}
+
+.sec5{background-color:#0A0A0A ;width:100%;}
+.speed img{padding:15% 0px 25px 47%;}
+.speed p{text-align: center;color:white;font-size:25px;padding-top:55px;}
+.speed img {padding: 5% 0px 4px 48%;}
+.atom{font-size:13px !important;padding:0px 0px 100px 10px;}
+
+.sec3{background-color:#1E1E1E; padding-top:3%; position: relative;}
+.sub_line{ width: 40vw; background-color: rgba(200,156,61,1.00); height:250px; position: absolute; bottom: -144px;}
+.sub_line:hover{background-color:#1E1E1E; transition: 0.5s; }
+.move{position: absolute !important;
+    bottom: -13% !important;
+    left: 72% !important;
+    width: 100px;}
+.p1{font-size: 215px;
+    font-weight: 600;
+    -webkit-text-stroke: 1px #E9E3D9;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+    line-height: 0.5;}
+.aim h4{padding:40px 0px 0px 80px;font-size:32;color:white;}
+.aim p{padding:20px 0px 0px 80px;color:white;}
+.solid img{width: 6%;
+    background-color: rgba(205,165,78,1.00);
+    border-radius: 50%;
+    padding:10px;}
+.solid{ position: absolute;
+    bottom: -3.5%;
+    left: 40%;
+    z-index: 1000000;}
+
+
+.sec6{width:100%;background-color:rgba(3,17,41,1.00);}
+.lack{border:1px solid white;padding:40px 0px 40px 50px }
+.lack:hover{background-color: rgba(200,156,61,0.10) ; transition: 0.5s; }
+.chill h5{color:white;padding:20px 0px 0px 30px;font-size:28px;}
+.chill p{color:white;padding:32px 0px 0px 25px;font-size:14px;}
+
+.core{position: relative;}
+.solid2 img{width: 55%;
+    background-color: rgba(207,189,189,0.44);
+    border-radius: 50%;
+    padding:10px;}
+.solid2{ position: absolute;
+    bottom: 34.5%;
+    left: 50%;
+    z-index: 1000000;}
+
+
+.sec7{background-color:#1E1E1E;width:100%;padding: 120px 0px 40px 0px;}
+.fire img{padding-top:0px;}
+.jj h6{margin-bottom:30px;color:white;font-size:20px;padding-left:20px;}
+.jj p{color:#E9E3D9;margin-bottom:15px;font-size:16;}
+.feed li a{color:white;padding-top:10px; text-decoration:none;}
+.feed{list-style:none;}
+.roll img{width:43%;}
+.roll button{background: rgba(200,156,61,1.00); border: 0px !important; border-radius: 0px 5px 5px 0px }
+.roll{padding: 0px !important;}
+.footerr{float:left;}
+.hide img{width: 46%;
+	padding-top: 20px;filter: invert();}
+
+
+
+
+.bar{padding:10px 24px; border:0px !important; border-radius:5px 0px 0px 5px;padding-bottom: 10px;outline: none; width: 100%}
+.twit{border-top: 1px solid  rgba(255, 255, 255, 0.1);}
+.area{padding-top:50px;}
+
+.designs{
+	padding: 50px 100px;
+}
+
+
+
+
+
+
+/*--------------contact_page-----------------*/
+
+.sec1_contact{ background-image: url(https://www.decorpot.com/images/blogimage1361284108interior-designs-for-master-bedroom.jpg); width: 100%; height: 60vh; background-size: cover; position: relative;}
+
+.sec_2{width: 100%;background-color: rgba(3,17,41,1.00);padding: 120px 0px 40px 0px;}
+.tier h1{color:white;padding-bottom: 30px;}
+.field input{padding:40px 60% 40px 40px ;outline:none;background-color: transparent;color:white;border:1px solid white;}
+.field{padding-bottom:20px;}
+.fire input{padding:20px 80px 20px 20px;width:100%;outline:none;background-color: transparent;color:white;border:1px solid white;}
+.upon input{padding:20px 93px 20px 20px ;outline:none;background-color: transparent;color:white;border:1px solid white;}
+.fire{padding-bottom:20px;}
+.upon{padding-bottom:20px;}
+.logi input{padding:20px 124% 20px 20px ;outline:none;background-color: transparent;color:white;border:1px solid white;}
+.button1{ color: white; text-decoration: none; border: 1px solid rgba(200,156,61,1.00) ; padding: 20px 40px; text-align: center;}
+
+/*********************side bar*******************/
+.side_bar{
+	list-style: none;
+	position:fixed;
+	top:0;
+	right:0;
+	height:100vh;
+	width:250px;
+	z-index: 999;
+	background-color: rgba(0,0,0,0.43);
+	backdrop-filter: blur(10px);
+	box-shadow: -10px 0 10px rgba(0,0,0,0.1);
+	display: none;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	transition: 0.5s;
+}
+.ham{display: none;}
+.side_bar li{
+	max-width: 100%;
+	flex:100%;
+	max-height: 8%;
+}
+.side_bar a{
+	width:100%!important;
+}
+
